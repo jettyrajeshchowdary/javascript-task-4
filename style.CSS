@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 50px auto;
+  }
+  
+  input[type="text"] {
+    border-radius: 0;
+  }
+  
+  .btn-primary {
+    border-radius: 0;
+  }
+  
